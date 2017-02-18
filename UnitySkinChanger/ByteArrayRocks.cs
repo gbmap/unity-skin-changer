@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace UnitySkinChanger
 {
+    // http://stackoverflow.com/questions/283456/byte-array-pattern-search
     static class ByteArrayRocks
     {
 
